@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+  <img src="https://img.shields.io/badge/email-459312872@qq.com-%237159c1?logo=gmail&logoColor=white">
   <a href="https://weaxsey.org">
     <img src="https://img.shields.io/badge/Blog-Weaxs-%237159c1?logo=ghost"/>
     </a>
