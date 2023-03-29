@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I’m Weaxs🐾.
 
 <!--
 **Weaxs/Weaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a src="https://weaxsey.org">
+    <img src="https://img.shields.io/badge/Blog-Weaxs-%237159c1?logo=ghost"/>
+    </a>
+ </p>
+
+<p align="center">
+     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Weaxs&layout=compact&hide_border=true&langs_count=8&theme=buefy&include_all_commits=true&count_private=true" />
+      <img src ="https://github-readme-stats.vercel.app/api?username=Weaxs&theme=buefy&hide_border=true&show_icons=true&count_private=true&hide_title=true&line_height=29"/>
+  <img src ="https://github-profile-trophy.vercel.app/?username=Weaxs&theme=buefy&no-frame=true&row=1&margin-w=8" />
+</p>
