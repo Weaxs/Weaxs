@@ -29,3 +29,8 @@ Here are some ideas to get you started:
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weaxs&theme=buefy"/>
   <img src ="https://github-profile-trophy.vercel.app/?username=Weaxs&theme=buefy&no-frame=true&row=1&margin-w=8" />
 </p>
+
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/Weaxs/achievements?format=svg&limit=3" width="350" />
+</p>
+
