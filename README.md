@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src="https://img.shields.io/badge/459312872@qq.com-%237159c1?logo=gmail&logoColor=white&style=for-the-badge&labelColor=555">
-  <a href="https://weaxsey.org">
-    <img src="https://img.shields.io/badge/Blog-Weaxs-%237159c1?logo=ghost&style=for-the-badge&labelColor=555"/>
-    </a>
+  <a href="https://weaxsey.org"><img src="https://img.shields.io/badge/Blog-Weaxs-%237159c1?logo=ghost&style=for-the-badge&labelColor=555"/></a>
  </p>
+ 
  <p align="center">
-   <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Weaxs&layout=compact&hide_border=true&langs_count=8&theme=buefy&include_all_commits=true&count_private=true&hide=html" style="width: 350px;"/>
-   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Weaxs&theme=buefy&hide_border=true&show_icons=true&count_private=true&hide_title=true&line_height=29"    <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Weaxs&layout=compact&hide_border=true&langs_count=8&theme=buefy&include_all_commits=true&count_private=true&hide=html" style="max-width: 100%;width: 400px;"/>
+   <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Weaxs&layout=compact&hide_border=true&langs_count=8&theme=buefy&include_all_commits=true&count_private=false&hide=html&size_weight=0.5&count_weight=0.5" style="width: 350px;"/>
+   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Weaxs&theme=buefy&hide_border=true&show_icons=true&count_private=true&hide_title=true&line_height=29" style="max-width: 100%;width: 400px;"/>
  </p>
 
 <p align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weaxs&theme=buefy"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weaxs&theme=buefy"/>
   <img src ="https://github-profile-trophy.vercel.app/?username=Weaxs&theme=buefy&no-frame=true&row=1&margin-w=8" />
 </p>
 
