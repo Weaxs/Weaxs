@@ -1,5 +1,6 @@
 ### Hi, I’m Weaxs 🐾🐾
 
+
 <!--
 **Weaxs/Weaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +21,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/459312872@qq.com-%237159c1?logo=gmail&logoColor=white&style=for-the-badge&labelColor=555">
   <a href="https://weaxsey.org"><img src="https://img.shields.io/badge/Blog-Weaxs-%237159c1?logo=ghost&style=for-the-badge&labelColor=555"/></a>
+  <a href="https://gujianzhu.wiki"><img src="https://img.shields.io/badge/古建漫游指南-%237159c1?logo=internetarchive&style=for-the-badge&labelColor=555"/></a>
  </p>
  
  <p align="center">
