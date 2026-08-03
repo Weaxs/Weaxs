@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Weaxs/Weaxs/main/profile-summary-card-output/github/0-profile-details.svg"/>
-  <img src ="https://trophygithubreadmelang.cybee.dpdns.org/?username=Weaxs&theme=buefy&no-frame=true&row=1&margin-w=8" />
+  <img src ="https://trophygithubreadmelang.cybee.dpdns.org/?username=Weaxs&no-frame=true&row=1&margin-w=8&no-bg=true&theme=gruvbox" />
 </p>
 
 <!--
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 -->
 <!--
 <p align="center">
-<a href="https://ghfind.com/u/weaxs?ref=badge"><img src="https://ghfind.com/api/card/weaxs?theme=light&variant=contrib&qr=1" alt="GitHub Roast" width="600" /></a>
+<a href="https://ghfind.com/u/weaxs?ref=badge"><img src="https://ghfind.com/api/card/weaxs?theme=aura&variant=contrib&qr=1" alt="GitHub Roast" width="600" /></a>
 </p>
 -->
