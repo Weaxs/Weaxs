@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Weaxs/Weaxs/main/profile-summary-card-output/dracula/0-profile-details.svg"/>
+  <img src="https://raw.githubusercontent.com/Weaxs/Weaxs/main/profile-summary-card-output/github/0-profile-details.svg"/>
   <img src ="https://github-profile-trophy.vercel.app/?username=Weaxs&theme=buefy&no-frame=true&row=1&margin-w=8" />
 </p>
 
