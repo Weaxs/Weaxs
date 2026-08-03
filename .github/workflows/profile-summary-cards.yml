@@ -1,0 +1,28 @@
+name: Profile Summary Cards
+
+on:
+  push:
+    paths:
+      - .github/workflows/profile-summary-cards.yml
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Weaxs
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          THEME: github
+          AUTO_PUSH: true
