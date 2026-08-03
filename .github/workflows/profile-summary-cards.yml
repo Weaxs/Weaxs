@@ -24,6 +24,6 @@ jobs:
           USERNAME: Weaxs
           BRANCH_NAME: main
           UTC_OFFSET: 8
-          THEME: dracula
-          ANIMATION: rgb-soft
+          THEME: github
+          ANIMATION: rgb
           AUTO_PUSH: true
