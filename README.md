@@ -25,10 +25,12 @@ Here are some ideas to get you started:
  </p>
  <p align="center">
 <a href="https://ghfind.com/u/weaxs?ref=badge"><img src="https://ghfind.com/api/card/mini/weaxs?variant=radar&lang=zh" alt="GitHub Roast 评分卡" width="440" /></a>
-</p>
+ </p>
+
+ 
  <p align="center">
-   <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Weaxs&layout=compact&hide_border=true&langs_count=8&theme=buefy&include_all_commits=true&count_private=false&hide=html&size_weight=0.5&count_weight=0.5" style="width: 350px;"/>
-   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Weaxs&theme=buefy&hide_border=true&show_icons=true&count_private=true&hide_title=true&line_height=29" style="max-width: 100%;width: 400px;"/>
+   <img src ="https://github-stats-extended.vercel.app/api/top-langs/?username=Weaxs&layout=compact&hide_border=true&langs_count=8&theme=buefy&include_all_commits=true&count_private=false&hide=html&size_weight=0.5&count_weight=0.5" style="width: 350px;"/>
+   <img src ="https://github-stats-extended.vercel.app/api?username=Weaxs&theme=buefy&hide_border=true&show_icons=true&count_private=true&hide_title=true&line_height=29" style="max-width: 100%;width: 400px;"/>
  </p>
  
 
